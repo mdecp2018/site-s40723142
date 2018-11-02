@@ -21,11 +21,13 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
-<v t="leo.20181102143316.1"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181102144921.1" a="E"><vh>test</vh>
+<v t="leo.20181102144921.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -327,8 +329,17 @@ s40723142分組網際簡報
 
 						
 </t>
-<t tx="leo.20181102143316.1">#s40723142
+<t tx="leo.20181102144921.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
-*[google](https://www.google.com)</t>
+
+						
+</t>
+<t tx="leo.20181102144921.2">#s40723142  test
+
+[我的網誌](https://mdecp2018.github.io/site-s40723142/content/index.html)</t>
 </tnodes>
 </leo_file>
